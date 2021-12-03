@@ -3,5 +3,5 @@ rm -fr build && mkdir build
 pushd build
 cmake ..
 make
-./two_a
+./two_b
 popd
